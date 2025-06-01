@@ -92,6 +92,9 @@ Project Status
 - [ ] Cypress & Playwright integration
 - [ ] Dashboard & data export
 
+## Documentation
+- [Development Notes](./docs/backend-progress.md)
+
 # License
 This project is for educational and portfolio purposes only.
 You are free to explore, fork, and contribute.
