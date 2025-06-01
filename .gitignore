@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+.env.local
+
+# General
+.DS_Store
+*.log
+
+# Docker
+*.pid
+*.sock
+
+# Test reports
+allure-results/
+coverage/
+
+# IDE settings
+.idea/
